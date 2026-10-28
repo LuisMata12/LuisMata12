@@ -28,8 +28,8 @@ Landing responsive para una plataforma de automatización con agentes de IA, con
 `Next.js` `React` `WebGL` `Vercel`
 
 ### [Gestor de tareas en AWS](https://github.com/LuisMata12/tareas-frontend)
-App de tareas en React servida desde S3 + CloudFront, con backend serverless en API Gateway y despliegue automático con GitHub Actions.
-`React` `AWS S3` `CloudFront` `API Gateway` `GitHub Actions`
+App de tareas en React servida desde S3 + CloudFront, con backend serverless (API Gateway, Lambda y DynamoDB) y despliegue automático con GitHub Actions.
+`React` `AWS S3` `CloudFront` `API Gateway` `Lambda` `DynamoDB` `GitHub Actions`
 
 ## 📫 Contacto
 
