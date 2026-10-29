@@ -15,8 +15,8 @@ Antes trabajé como **desarrollador de aplicaciones en Accenture México**. Hoy 
 
 ## 🚀 Proyectos destacados
 
-### [CausaOps](https://github.com/LuisMata12/CausaOps)
-Plataforma de observabilidad y respuesta a incidentes. Ingiere telemetría, detecta una regresión, la correlaciona con un despliegue, genera un diagnóstico basado en evidencia con un LLM y pide aprobación humana antes de un rollback simulado.
+### [CausaOps](https://github.com/LuisMata12/CausaOps) · [Caso de estudio](https://my-portfolio-taupe-five-58.vercel.app/causaops.html)
+Plataforma de observabilidad y respuesta a incidentes. Detecta degradaciones con reglas deterministas, las correlaciona con despliegues y las diagnostica con un LLM cuyas citas valida el backend: si el modelo inventa evidencia, el diagnóstico se rechaza. La IA no ejecuta acciones; la aprobación humana del rollback está en desarrollo.
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `LLM`
 
 ### [Pistu](https://my-portfolio-taupe-five-58.vercel.app/pistu.html) · [Jugar](https://pistu-kr3e.onrender.com)
