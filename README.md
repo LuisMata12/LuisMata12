@@ -19,6 +19,10 @@ Antes trabajé como **desarrollador de aplicaciones en Accenture México**. Hoy 
 Plataforma de observabilidad y respuesta a incidentes. Ingiere telemetría, detecta una regresión, la correlaciona con un despliegue, genera un diagnóstico basado en evidencia con un LLM y pide aprobación humana antes de un rollback simulado.
 `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `LLM`
 
+### [Pistu](https://my-portfolio-taupe-five-58.vercel.app/pistu.html) · [Jugar](https://pistu-kr3e.onrender.com)
+La lotería mexicana convertida en un juego multijugador de pistas en tiempo real, sin cuentas ni descargas. Servidor autoritativo, reconexión sin perder tu lugar, 94 pruebas unitarias y bots que hacen trampa. Código privado por ahora.
+`TypeScript` `Colyseus` `Phaser` `WebSocket` `Vite` `Vitest`
+
 ### [Portafolio 3D](https://github.com/LuisMata12/my-portfolio) · [Ver en vivo](https://my-portfolio-taupe-five-58.vercel.app)
 Sitio personal con escena 3D interactiva y animaciones al hacer scroll.
 `Three.js` `GSAP` `Vite`
